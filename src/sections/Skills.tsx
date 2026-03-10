@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import SectionReveal from "@/components/SectionReveal";
 import {
-  SiReact, SiTypescript, SiJavascript, SiHtml5, SiCss3, SiTailwindcss,
+  SiReact, SiTypescript, SiJavascript, SiHtml5, SiCss, SiTailwindcss,
   SiNodedotjs, SiExpress, SiMongodb, SiPostgresql,
   SiGit, SiFigma, SiDocker, SiVercel
 } from "react-icons/si";
