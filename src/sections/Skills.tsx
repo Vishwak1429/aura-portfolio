@@ -14,7 +14,7 @@ const skillCategories = [
       { name: "TypeScript", icon: <SiTypescript />, level: 88 },
       { name: "JavaScript", icon: <SiJavascript />, level: 95 },
       { name: "HTML5", icon: <SiHtml5 />, level: 95 },
-      { name: "CSS3", icon: <SiCss3 />, level: 90 },
+      { name: "CSS3", icon: <SiCss />, level: 90 },
       { name: "Tailwind", icon: <SiTailwindcss />, level: 90 },
     ],
   },
